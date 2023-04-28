@@ -1,5 +1,19 @@
-def init (self, name)
-def deposit(self, amount)
-def withdraw(self, amount)
-def get balance(selt)
-def get name(selt)
+class Account:
+    def __init__(self, name: str) -> None:
+        pass
+
+    def deposit(self, amount: float) -> bool:
+
+        pass
+
+    def withdraw(self, amount: float) -> bool:
+
+        pass
+
+    def get_balance(self) -> float:
+
+        pass
+
+    def get_name(self) -> str:
+
+        pass
