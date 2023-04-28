@@ -1,0 +1,5 @@
+def init (self, name)
+def deposit(self, amount)
+def withdraw(self, amount)
+def get balance(selt)
+def get name(selt)
